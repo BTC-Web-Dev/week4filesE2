@@ -3,6 +3,10 @@ body {
     background-color: #c8a2c8;
 }
 
+a {
+    color: black;
+}
+
 h3 {
     color: purple;
 }
@@ -10,7 +14,10 @@ h3 {
 p {
     color: purple;
 }
-image{
+
+
+img{
+
     max-width:200px;
     border:double dashed #b36200;
 
