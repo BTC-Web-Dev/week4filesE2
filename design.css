@@ -3,6 +3,10 @@ body {
     background-color: #c8a2c8;
 }
 
+a {
+    color: black;
+}
+
 h3 {
     color: purple;
 }
