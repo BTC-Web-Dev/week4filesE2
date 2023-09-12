@@ -15,7 +15,9 @@ p {
     color: purple;
 }
 
+
 img{
+
     max-width:200px;
     border:double dashed #b36200;
 
